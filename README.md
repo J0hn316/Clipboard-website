@@ -14,3 +14,7 @@ A simple and modern clipboard landing page built using **Tailwind CSS**. This pr
 - **Tailwind CSS**: Utility-first CSS framework.
 - **HTML**: Markup for structuring the page.
 - **CSS**: Tailwind for styling.
+
+🌟 Acknowledgments
+
+- Brad Traversy: For the excellent Tailwind CSS course.
